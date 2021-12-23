@@ -1,0 +1,12 @@
+{
+	"name": "type_chain",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/jake-mg-shin/type_chain.git",
+	"license": "MIT",
+	"author": "Jake.mg.shin",
+	"scripts": {
+		"start": "node index.js",
+		"prestart": "tsc"
+	}
+}
